@@ -1,0 +1,25 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37516.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VProEditAll", "VProEditAll.csproj", "{9CA8B728-6EE2-4CFF-91A3-8F5225327725}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CA8B728-6EE2-4CFF-91A3-8F5225327725}.Debug|x64.ActiveCfg = Debug|x64
+		{9CA8B728-6EE2-4CFF-91A3-8F5225327725}.Debug|x64.Build.0 = Debug|x64
+		{9CA8B728-6EE2-4CFF-91A3-8F5225327725}.Release|x64.ActiveCfg = Release|x64
+		{9CA8B728-6EE2-4CFF-91A3-8F5225327725}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55DA8508-B98F-4F5B-8ACA-A30D0AD0D495}
+	EndGlobalSection
+EndGlobal

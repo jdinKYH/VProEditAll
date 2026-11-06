@@ -1,0 +1,10 @@
+# Visual Studio / 빌드 출력
+.vs/
+bin/
+obj/
+*.user
+*.suo
+
+# 편집기 저장 시 생기는 백업/임시 파일
+*.bak
+*.saving.tmp
